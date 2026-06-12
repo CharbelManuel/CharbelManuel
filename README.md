@@ -1,16 +1,18 @@
 ## Hi there 👋
 
-<!--
-**CharbelManuel/CharbelManuel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m currently working on software engineering projects and expanding my technical portfolio.
 
-Here are some ideas to get you started:
+I’m currently learning backend development, databases, REST APIs, and system design.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I’m looking to collaborate on web applications, information systems, and business software projects.
+
+I’m looking for help with software architecture, best practices, and scalable systems.
+
+Ask me about Python, Java, SQL, Git, Odoo ERP, and backend development.
+
+Current goal: Pursue a Master's degree in Software Engineering or Information Systems in Japan while building practical industry experience.
+
+## How to reach me: charbelmanuel0@gmail.com
+
+
+
